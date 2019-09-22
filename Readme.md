@@ -9,17 +9,15 @@ A HTML5 version of Jeopardy using Javascript, JQuery, JSON, and Bootstrap.
 
 Use board.json for sample input. Use that format when loading the game.
 
-## Motivation
-
-At PAX East 2014, the PowerPoint version of Jeopardy used for Game Show night vomited all the answers, so I thought that there has to be a better HTML5 version of this so that it works.
-
 ## Installation
 
 Host on a website. Images should be located on the host server but referenced in the game JSON file.
 
 ## TODO
 
-- Whatever Dan wants at this point.
+figure out where to change clue and category font and sizes
+need much smaller clue hint displayed above images
+no dollar signs on main board
 
 ## Contributors
 
