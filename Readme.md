@@ -16,7 +16,9 @@ Host on a website. Images should be located on the host server but referenced in
 ## TODO
 
 figure out where to change clue and category font and sizes
+
 need much smaller clue hint displayed above images
+
 no dollar signs on main board
 
 ## Contributors
